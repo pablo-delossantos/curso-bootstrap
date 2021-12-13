@@ -4,8 +4,15 @@
     height: 100px;
 }
 
-.responsive {
+.amarillo {
     background-color: #fdca72;
     border: 1px solid #fff;
     height: 100px;
+}
+
+.rojo {
+    background-color: #d62f33;
+    border: 1px solid #fff;
+    height: 100px;
+    color: #fff;
 }
