@@ -1,5 +1,5 @@
 .text-platzi {
-  color: #97c93e !important;
+	color: #97c93e !important;
 }
 
 #header img {
@@ -28,10 +28,10 @@
 }
 
 #footer {
-  background-color: #03091e;
+	background-color: #03091e;
 }
 
 #footer a {
-  color: #fff;
-  text-decoration: none;
+	color: #fff;
+	text-decoration: none;
 }

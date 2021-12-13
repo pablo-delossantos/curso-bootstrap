@@ -1,18 +1,18 @@
 .col {
-    background-color: #00b794;
-    border: 1px solid #c0f3e2;
-    height: 100px;
+	background-color: #00b794;
+	border: 1px solid #c0f3e2;
+	height: 100px;
 }
 
 .amarillo {
-    background-color: #fdca72;
-    border: 1px solid #fff;
-    height: 100px;
+	background-color: #fdca72;
+	border: 1px solid #fff;
+	height: 100px;
 }
 
 .rojo {
-    background-color: #d62f33;
-    border: 1px solid #fff;
-    height: 100px;
-    color: #fff;
+	background-color: #d62f33;
+	border: 1px solid #fff;
+	height: 100px;
+	color: #fff;
 }
